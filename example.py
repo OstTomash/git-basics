@@ -5,6 +5,10 @@ def run():
     print('End')
 
 
+def func():
+    return None
+
+
 def new_func():
     return 1
 
